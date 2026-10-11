@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/peryx/commit/b8f0ff6f35c9c0b64bb99582fb1dde56edeeed4c",
       "git:hexsha": "b8f0ff6f35c9c0b64bb99582fb1dde56edeeed4c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2026.1010.0"
     },
     {
